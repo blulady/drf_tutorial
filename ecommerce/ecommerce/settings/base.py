@@ -30,7 +30,6 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -76,8 +75,6 @@ WSGI_APPLICATION = "ecommerce.wsgi.application"
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-
-
 
 
 # Password validation
