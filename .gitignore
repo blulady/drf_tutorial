@@ -3,7 +3,8 @@
 .idea/
 .pytest_cache
 **__pycache__/
-db.sqlite
+ecommerce/db.sqlite3
 .coverage
 .vscode
 .pytest_cache/
+schema.yml
